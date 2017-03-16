@@ -21,3 +21,6 @@ In case you need any extra explanation about any command listed, I recommend you
 > Hit TAB while typing folder name will autocomplete it if theres a folder that matching name  
 
 > Hit tab twice while typing folder name will suggest all folder names that match with the charactheres already typed  
+
+## Create a new directory
+`mkdir folder-name` (create a new folder called 'folder-name' in the current folder)  
