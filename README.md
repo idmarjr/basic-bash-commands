@@ -28,3 +28,6 @@ In case you need any extra explanation about any command listed, I recommend you
 ## Create a new empty file
 `touch file.txt` (Create a new file.txt with no content on it)  
 > You can create a empty file of any extention that you like.
+
+## Open file
+`open filename.txt` (Open `file.txt` using the default program of your system to open that particular extension)
