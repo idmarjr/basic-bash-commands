@@ -13,3 +13,11 @@ In case you need any extra explanation about any command listed, I recommend you
 
 ## Clear viewport
 `clear` (Clear your viewport without lose history by scrolling content to outside of visible area)  
+
+## Change working directory
+`cd folder` (change to folder named folder (if it exist))  
+`cd folder/other-folder` (You can pass a path with more folders in order to save time)  
+`cd ~` (Goes to your user directory)  
+> Hit TAB while typing folder name will autocomplete it if theres a folder that matching name  
+
+> Hit tab twice while typing folder name will suggest all folder names that match with the charactheres already typed  
