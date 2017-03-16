@@ -24,3 +24,7 @@ In case you need any extra explanation about any command listed, I recommend you
 
 ## Create a new directory
 `mkdir folder-name` (create a new folder called 'folder-name' in the current folder)  
+
+## Create a new empty file
+`touch file.txt` (Create a new file.txt with no content on it)  
+> You can create a empty file of any extention that you like.
