@@ -14,6 +14,13 @@ In case you need any extra explanation about any command listed, I recommend you
 ## Clear viewport
 `clear` (Clear your viewport without lose history by scrolling content to outside of visible area)  
 
+## Manual of a command
+`man pwd` (Show `pwd` manual)  
+`man ls` (Show `ls` manual)
+`man clear` (Show `clear` manual)
+> In the manual view you can use keyboard arows to navigate throught the document.  
+> To exit it, type `q`
+
 ## Change working directory
 `cd folder` (change to folder named folder (if it exist))  
 `cd folder/other-folder` (You can pass a path with more folders in order to save time)  
