@@ -36,5 +36,12 @@ In case you need any extra explanation about any command listed, I recommend you
 `touch file.txt` (Create a new file.txt with no content on it)  
 > You can create a empty file of any extention that you like.
 
+##History log
+`history` (Display commands executed with the number of it in the history table)  
+`!1` (Execute the command #1 from the history table)  
+`!!` or  `!-1` (Exeute the last executed command)  
+`!git` (Execute the most recent command from history table that start with _git_ keyword)  
+`!?git` (Execute the most recent command from history table that contains _git_ keyword)  
+
 ## Open file
 `open filename.txt` (Open `file.txt` using the default program of your system to open that particular extension)
