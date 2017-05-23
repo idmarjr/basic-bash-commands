@@ -11,6 +11,11 @@ In case you need any extra explanation about any command listed, I recommend you
 `ls -a` (Show all files, including hidden files)  
 `ls -l` (Show list with extra information about each file/folder)
 
+## Hard drive usage information
+`df -h` (Show usage of all volumes in a human readable format)  
+`df -h ~` (Show disk usage of your user folder)  
+`df -h ~/Documents` (Shows disk usage of your user Document folder)  
+
 ## Clear viewport
 `clear` (Clear your viewport without lose history by scrolling content to outside of visible area)  
 
