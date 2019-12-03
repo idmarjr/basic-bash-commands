@@ -41,7 +41,7 @@ In case you need any extra explanation about any command listed, I recommend you
 `touch file.txt` (Create a new file.txt with no content on it)  
 > You can create a empty file of any extention that you like.
 
-##History log
+## History log
 `history` (Display commands executed with the number of it in the history table)  
 `!1` (Execute the command #1 from the history table)  
 `!!` or  `!-1` (Exeute the last executed command)  
